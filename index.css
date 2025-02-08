@@ -1,0 +1,76 @@
+body {
+    font-family: "Space Grotesk" !important;
+}
+
+.navbar {
+    max-width: 1440px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 68px;
+    margin-top: 80px;
+}
+
+.navbar,
+.main-banner {
+    max-width: 1440px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.nav-link {
+    font-size: 20px !important;
+}
+
+ul.navbar-nav li {
+    margin-right: 40px;
+}
+
+.request {
+    width: 231px;
+    height: 68px;
+    color: black !important;
+    border-color: black !important;
+}
+
+.request:hover {
+    color: white !important;
+    background-color: black !important;
+}
+
+.main-banner {
+    display: flex;
+    justify-content: space-between;
+    /* gap: 110px; */
+    margin-top: 70px;
+}
+
+.main-banner .message {
+    width: 531px;
+}
+
+h1.title {
+    font-size: 60px;
+    margin-bottom: 35px;
+}
+
+p.copy {
+    font-size: 20px;
+    margin-right: 33px;
+    margin-bottom: 35px;
+}
+
+.message button {
+    width: 264px;
+    height: 68px;
+    color: white;
+    background-color: black;
+    gap: 10px;
+    padding-top: 20px;
+    padding-right: 35px;
+    padding-bottom: 20px;
+    padding-left: 35px;
+    border-radius: 14px;
+}
+
+
+
