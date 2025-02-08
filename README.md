@@ -1,5 +1,5 @@
 # POSITIVUS
 
-## A basic htmnl & bootstrap test
+## A basic html & bootstrap test
 
 ![test-preview](image.png)
